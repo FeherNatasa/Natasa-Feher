@@ -1,1 +1,2 @@
 1. Status datotek pred shranjevanjem/pred prvim commit-om: Unknown
+2. Status datotek pred commit-om: Added (pri drugi akciji tudi status Modified).
