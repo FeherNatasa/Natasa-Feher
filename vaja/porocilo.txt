@@ -1,0 +1,1 @@
+1. Status datotek pred shranjevanjem/pred prvim commit-om: Unknown
